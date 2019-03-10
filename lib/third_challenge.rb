@@ -20,7 +20,7 @@ def third_challenge
         :name => {}, :age => {}
         },
       :heroine => {
-        :name => {}, :age => {}
+        :name => {}, :age => {}, :status => {}
         },
       :heroine_friends => [:name => {}, :age => {}, :attitude => {}]
    }
