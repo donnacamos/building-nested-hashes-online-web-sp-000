@@ -8,7 +8,7 @@ def third_challenge
        :name => {}, :age => {}
         },
       :hero => {
-        :name => {}, :age => {}
+        :name => {}, :age => {}, :status => {} 
         },
       :hero_friends => [:name => {}, :age => {}, :attitude => {}]
    }, 
